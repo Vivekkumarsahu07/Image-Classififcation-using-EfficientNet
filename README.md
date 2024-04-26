@@ -1,4 +1,4 @@
-# Image-Classififcation-using-EfficientNet
+# Image-Classification-using-EfficientNet
 -> This repository demonstrates the application of transfer learning for image classification using a pre-trained model. Transfer learning involves leveraging the knowledge gained by a model trained on a large dataset (such as ImageNet) and applying it to a new, related task.
 
 ## Steps Covered:
